@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 533463b544789db4c9a23fc27b4aeb65, type: 3}
+  m_Name: ChessPieces
+  m_EditorClassIdentifier: 
+  _chessPieces:
+  - ChessPieceName: 1
+    ChessPiece: {fileID: 7474174718091484055, guid: a8d73b2744e3aef42b44bb6e4148731b, type: 3}
+  - ChessPieceName: 2
+    ChessPiece: {fileID: 1860024400256898347, guid: c80a84e35fe41a14bbfe0dd74ece61c5, type: 3}
+  - ChessPieceName: 3
+    ChessPiece: {fileID: 3170708044754610822, guid: e364767153cb423479181c9a506b0965, type: 3}
+  - ChessPieceName: 4
+    ChessPiece: {fileID: 780564984481925071, guid: 408aa4f0d33b4a34d92426101dd2b203, type: 3}
+  - ChessPieceName: 5
+    ChessPiece: {fileID: 6355308426412920540, guid: c93d997e7ad96ed43a5e14b009672cf9, type: 3}
+  - ChessPieceName: 6
+    ChessPiece: {fileID: 5810793200474385410, guid: 25e8ff120bd78b74886b7d49f5d3c95e, type: 3}
